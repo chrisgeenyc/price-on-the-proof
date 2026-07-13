@@ -13,7 +13,7 @@ description: >
   justify a fee to a client. NOT for self-serve SaaS subscription tiers (that's a
   packaging problem, not an offer-pricing one).
 metadata:
-  version: 2.0.0
+  version: 2.1.0
 ---
 
 # Price on the Proof
@@ -51,6 +51,11 @@ market caps the ceiling and value defends the floor — take the tighter constra
 create, and the client won't reveal it. That's fine — they need a *credible*
 estimate, not a true one. Build it from conservative, sourceable inputs, price a
 fraction of it, and treat the client's reaction (nod vs. flinch) as live signal.
+
+**Price in the open.** The method's credibility comes from transparency, not
+cleverness: you *show* the client the value math and let them check it. A price you
+can defend out loud beats a price you anchored quietly — and it's what separates
+this from every "charge your worth" pitch on the internet.
 
 ---
 
@@ -93,24 +98,33 @@ State the client's before → after in one sentence. This frames everything.
 
 ### 2. Quantify the value created (Year 1)
 Estimate the value in three buckets, using conservative inputs:
-- **Time saved** — hours reclaimed × the client's loaded hourly cost
-- **Capacity / revenue gained** — new output, faster cycles, revenue unlocked
-- **Cost or risk avoided** — spend eliminated, mistakes/penalties prevented
+- **Money gained** *(hard dollar)* — revenue unlocked, capacity that converts to revenue
+- **Cost or risk avoided** *(hard dollar)* — spend eliminated, mistakes/penalties prevented
+- **Time / capacity created** *(soft)* — hours reclaimed × loaded rate. Real value,
+  but **not cash**: a CFO discounts saved time unless it converts to revenue or
+  headcount. Frame it as *capacity*, the supporting case — never the headline.
 
-Sum = **Year-1 Value Created**. Show the math in a small table. If the user was
-unsure in intake, walk them through reasonable assumptions and label them clearly.
+**Require at least one hard-dollar bucket** in every estimate. A value number built
+only on "hours saved" won't survive a finance conversation. Sum = **Year-1 Value
+Created**; show the math in a small table and label soft vs. hard dollars clearly.
 
 ### 3. Set a candidate fee — the ROI-to-Rate step
-Charge a *fraction* of the value so the client always comes out ahead:
+Charge a *fraction* of the value so the client always comes out ahead. This is a
+**heuristic, not a law** — a defensible starting anchor you then adjust:
 
 > **Fee ≈ 15–30% of Year-1 Value Created**, targeting at least a **3:1
 > value-to-fee ratio** (the client gets back ≥ $3 for every $1 they pay).
 
+The 3:1 threshold is simply where a return becomes an easy yes. The 15–30% band
+moves with **risk, whether the work is recurring, and how measurable the outcome
+is** — riskier or one-off → lower; recurring or high-certainty → higher.
+
 **What a "capture rate" is:** the share of the value you keep as your fee. Create
 $150K of value, charge $30K → a 20% capture rate; the client keeps the other 80%
 as their reason to say yes. You never capture 100% — the gap *is* the client's
-incentive. (Think literary agent ~15%, recruiter ~20%.) Below 3:1, the deal is
-hard to justify; far above 10:1, you're underpricing.
+incentive. It's the same logic as a literary agent (~15%) or a recruiter (~20%):
+a defined slice of the value you unlock, not a bill for your hours. Below 3:1 the
+deal is hard to justify; far above 10:1 you're underpricing.
 
 ### 4. Discipline it against the market — the reality check
 Pull 5–10 real comparables (competitor rates, published course prices, RFP
@@ -141,9 +155,10 @@ Offer the same value in three formats at three price points (good-better-best):
 - **Retainer / ongoing** — the anchor. Highlight this one.
 - **Productized** — a fixed offer at a fixed price. The scalable tier.
 
-Present the **Year-1 Value number first, the fee second.** A $30K fee looks
-expensive alone, obvious next to $156K of value. Anchor high, show the ratio, let
-the client do the arithmetic.
+**Show your work, then present value-first.** Hand the client the value math and
+let them check it — the method's power is that your price is defensible *in the
+open*, not that you anchored cleverly. Put the Year-1 value first, the fee second:
+a $30K fee looks expensive alone, obvious next to $156K of transparent, sourced value.
 
 ---
 
@@ -156,9 +171,15 @@ when to move it. Have them pull it from their pipeline each quarter:
 - **Closing below 30% → fix positioning or lead quality, not price.**
 - **Target band: 45–55% close on qualified proposals.**
 
+**One precondition:** this assumes a *qualified pipeline of comparable prospects*.
+If most of your work comes through referrals or warm intros, your close rate will
+run high for reasons that have nothing to do with price — don't raise on that
+signal alone. And separate *lost on price* from *lost on fit*; only the first
+tells you anything about your number.
+
 When the signal says raise: go up **10–20% at a time** and grandfather existing
 clients. A close rate that's too high isn't a trophy — it's money left on the
-table. (Sensible defaults; a user can tune them to their own sales motion.)
+table. (Sensible defaults; tune them to your own sales motion.)
 
 ---
 

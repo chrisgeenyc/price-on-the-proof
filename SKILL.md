@@ -13,7 +13,7 @@ description: >
   justify a fee to a client. NOT for self-serve SaaS subscription tiers (that's a
   packaging problem, not an offer-pricing one).
 metadata:
-  version: 2.1.0
+  version: 2.2.0
 ---
 
 # Price on the Proof
@@ -56,6 +56,43 @@ fraction of it, and treat the client's reaction (nod vs. flinch) as live signal.
 cleverness: you *show* the client the value math and let them check it. A price you
 can defend out loud beats a price you anchored quietly — and it's what separates
 this from every "charge your worth" pitch on the internet.
+
+---
+
+## First touch — orient before you dive
+
+If the user's request is **vague or exploratory** ("how does this work?", "what can
+you do?", "help me with pricing", "get started"), **or** no `pricing-profile.md`
+exists yet and they haven't named a specific thing to price — **don't launch the
+method.** Give a 20-second orientation first, then let them pick a lane. (If a
+profile already exists, skip this — they're a returning user who came in with a task.)
+
+Present this:
+
+> 👋 **Price on the Proof — quick orientation**
+>
+> I help you set a price you can *defend* — for an engagement, retainer, workshop,
+> or course.
+>
+> **Try asking me:**
+> - "What should I charge for a 3-month advisory engagement?"
+> - "Am I underpricing my workshop?"
+> - "Package my consulting into good / better / best tiers."
+> - "Should I raise my rates?"
+> - "Help me justify my fee to a client's CFO."
+>
+> **Best when** you have a specific thing to price, or a nagging feeling you're
+> leaving money on the table. **Not for** SaaS subscription tiers.
+>
+> Or just pick a lane:
+> 1. Price something new
+> 2. Check whether I'm underpriced
+> 3. Package my offer into tiers
+> 4. Know when to raise my rates
+>
+> Tell me what you're pricing — even roughly — and I'll take it from there.
+
+Once they respond with something to price, go to Step 0 and run the method.
 
 ---
 

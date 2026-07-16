@@ -20,6 +20,18 @@ defensible price:
 
 Plus a quarterly **Close-Rate Diagnostic** for knowing when to raise your prices.
 
+## Quickstart — just ask
+
+New to it? The skill orients you on first use. Or jump straight in with something like:
+
+- "What should I charge for a 3-month advisory engagement?"
+- "Am I underpricing my workshop?"
+- "Package my consulting into good / better / best tiers."
+- "Should I raise my rates?"
+- "Help me justify my fee to a client's CFO."
+
+It asks a few quick questions, then hands back a specific price with the reasoning.
+
 ## Install (Claude Code)
 
 Copy the `price-on-the-proof/` folder into your skills directory:
